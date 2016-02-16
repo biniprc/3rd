@@ -1,0 +1,223 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/yonsei.jpg",
+    "name": "연세대학교",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/yonsei/강동주.jpg",
+      "name" : "강동주",
+      "major": "사회학과"
+    },
+    {
+      "photo": "images/members/yonsei/김나영.jpg",
+      "name" : "김나영",
+      "major": "전기전자공학과"
+    },
+    {
+      "photo": "images/members/yonsei/김명지.jpg",
+      "name" : "김명지",
+      "major": "정보대학원 UX"
+    },
+    {
+      "photo": "images/members/yonsei/김소예.png",
+      "name" : "김소예",
+      "major": "심리학과"
+    },
+    {
+      "photo": "images/members/yonsei/김우석.jpeg",
+      "name" : "김우석",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/yonsei/김지섭.jpg",
+      "name" : "김지섭",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/yonsei/김탁희.jpg",
+      "name" : "김탁희",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/yonsei/김태희.jpg",
+      "name" : "김태희",
+      "major": "문헌정보학과"
+    },
+    {
+      "photo": "images/members/yonsei/남현우.jpg",
+      "name" : "남현우",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/yonsei/노경민.jpg",
+      "name" : "노경민",
+      "major": "도시공학과"
+    },
+
+    {
+      "photo": "images/members/yonsei/노대원.png",
+      "name" : "노대원",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/yonsei/민찬홍.png",
+      "name" : "민찬홍",
+      "major": "신소재공학과"
+    },
+    {
+      "photo": "images/members/yonsei/박정현.png",
+      "name" : "박정현",
+      "major": "영어영문학과"
+    },
+    {
+      "photo": "images/members/yonsei/박청호.jpeg",
+      "name" : "박청호",
+      "major": "컴퓨터과학과"
+    },
+    {
+      "photo": "images/members/yonsei/방역주.jpeg",
+      "name" : "방역주",
+      "major": "실내건축학과"
+    },
+    {
+      "photo": "images/members/yonsei/선소현.png",
+      "name" : "선소현",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/yonsei/손규빈.jpg",
+      "name" : "손규빈",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/yonsei/신동섭.jpg",
+      "name" : "신동섭",
+      "major": "독어독문학과"
+    },
+    {
+      "photo": "images/members/yonsei/오예인.png",
+      "name" : "오예인",
+      "major": "응용통계학과"
+    },
+    {
+      "photo": "images/members/yonsei/유희열.png",
+      "name" : "유희열",
+      "major": "수학과"
+    },
+
+    {
+      "photo": "images/members/yonsei/윤채원.jpg",
+      "name" : "윤채원",
+      "major": "정치외교학과"
+    },
+    {
+      "photo": "images/members/yonsei/이동재.png",
+      "name" : "이동재",
+      "major": "심리학과"
+    },
+    {
+      "photo": "images/members/yonsei/이성태.png",
+      "name" : "이성태",
+      "major": "의예과"
+    },
+    {
+      "photo": "images/members/yonsei/이영준.jpg",
+      "name" : "이영준",
+      "major": "생활디자인"
+    },
+    {
+      "photo": "images/members/yonsei/이지명.jpg",
+      "name" : "이지명",
+      "major": "경제학과"
+    },
+    {
+      "photo": "images/members/yonsei/이한산.jpg",
+      "name" : "이한산",
+      "major": "생명공학과"
+    },
+    {
+      "photo": "images/members/yonsei/이현민.jpg",
+      "name" : "이현민",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/yonsei/이호연.jpg",
+      "name" : "이호연",
+      "major": "컴퓨터과학과"
+    },
+    {
+      "photo": "images/members/yonsei/전고은.jpg",
+      "name" : "전고은",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/yonsei/정성헌.png",
+      "name" : "정성헌",
+      "major": "경제학과"
+    },
+
+    {
+      "photo": "images/members/yonsei/정은영.png",
+      "name" : "정은영",
+      "major": "응용통계학과"
+    },
+    {
+      "photo": "images/members/yonsei/정인수.png",
+      "name" : "정인수",
+      "major": "컴퓨터과학과"
+    },
+    {
+      "photo": "images/members/yonsei/조하은.jpg",
+      "name" : "조하은",
+      "major": "테크노아트학과"
+    },
+    {
+      "photo": "images/members/yonsei/주재학.jpeg",
+      "name" : "주재학",
+      "major": "행정학과"
+    },
+    {
+      "photo": "images/members/yonsei/지현준.jpg",
+      "name" : "지현준",
+      "major": "정보산업공학과"
+    },
+    {
+      "photo": "images/members/yonsei/차도현.jpg",
+      "name" : "차도현",
+      "major": "의예과"
+    },
+    {
+      "photo": "images/members/yonsei/최예원.jpg",
+      "name" : "최예원",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/yonsei/홍남호.jpg",
+      "name" : "홍남호",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/yonsei/홍성연.jpg",
+      "name" : "홍성연",
+      "major": "정보인터랙션디자인학과"
+    },
+    {
+      "photo": "images/members/yonsei/홍일도.jpeg",
+      "name" : "홍일도",
+      "major": "경영학과"
+    },
+
+    {
+      "photo": "images/members/yonsei/황소흠.png",
+      "name" : "황소흠",
+      "major": "테크노아트학과"
+    },
+    {
+      "photo": "images/members/yonsei/황완식.jpg",
+      "name" : "황완식",
+      "major": "컴퓨터과학"
+    }
+  ]
+}

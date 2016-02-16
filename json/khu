@@ -1,0 +1,14 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/khu.jpg",
+    "name": "경희대학교",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/khu/temp.png",
+      "name" : "경희대학교",
+      "major": "사진 준비중"
+    }
+  ]
+}

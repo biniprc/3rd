@@ -1,0 +1,19 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/.jpg",
+    "name": "",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members//",
+      "name" : "",
+      "major": ""
+    },
+    {
+      "photo": "images/members//",
+      "name" : "",
+      "major": ""
+    },
+  ]
+}

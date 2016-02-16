@@ -1,0 +1,54 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/dongduk.jpg",
+    "name": "동덕여대",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/dongduk/김연지.png",
+      "name" : "김연지",
+      "major": "컴퓨터학과"
+    },
+    {
+      "photo": "images/members/dongduk/김희진.jpg",
+      "name" : "김희진",
+      "major": "컴퓨터학과"
+    },
+    {
+      "photo": "images/members/dongduk/이보민.png",
+      "name" : "이보민",
+      "major": "문예창작과"
+    },
+    {
+      "photo": "images/members/dongduk/정유진.jpg",
+      "name" : "정유진",
+      "major": "컴퓨터학과"
+    },
+    {
+      "photo": "images/members/dongduk/정혜인.jpg",
+      "name" : "정혜인",
+      "major": "컴퓨터학과"
+    },
+    {
+      "photo": "images/members/dongduk/최윤선.jpeg",
+      "name" : "최윤선",
+      "major": "컴퓨터학과"
+    },
+    {
+      "photo": "images/members/dongduk/최지영.jpg",
+      "name" : "최지영",
+      "major": "국제경영학"
+    },
+    {
+      "photo": "images/members/dongduk/최혜옥.jpg",
+      "name" : "최혜옥",
+      "major": "컴퓨터학과"
+    },
+    {
+      "photo": "images/members/dongduk/황유진.jpg",
+      "name" : "황유진",
+      "major": "컴퓨터학과"
+    }
+  ]
+}

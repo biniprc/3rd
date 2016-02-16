@@ -1,0 +1,54 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/skku.jpg",
+    "name": "성균관대학교",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/skku/김규환.jpg",
+      "name" : "김규환",
+      "major": "신문방송학과"
+    },
+    {
+      "photo": "images/members/skku/김성중.jpg",
+      "name" : "김성중",
+      "major": "문헌정보학과"
+    },
+    {
+      "photo": "images/members/skku/노승호.jpg",
+      "name" : "노승호",
+      "major": "경제학과"
+    },
+    {
+      "photo": "images/members/skku/유장홍.jpg",
+      "name" : "유장홍",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/skku/이종진.jpg",
+      "name" : "이종진",
+      "major": "심리학과"
+    },
+    {
+      "photo": "images/members/skku/전증환.jpg",
+      "name" : "전증환",
+      "major": "심리학과"
+    },
+    {
+      "photo": "images/members/skku/전태훈.jpg",
+      "name" : "전태훈",
+      "major": "글로벌경영"
+    },
+    {
+      "photo": "images/members/skku/정운.jpg",
+      "name" : "정운",
+      "major": "철학과"
+    },
+    {
+      "photo": "images/members/skku/정진주.jpg",
+      "name" : "정진주",
+      "major": "중어중문학과"
+    }
+  ]
+}

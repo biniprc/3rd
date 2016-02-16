@@ -1,0 +1,99 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/konkuk.jpg",
+    "name": "건국대학교",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/konkuk/김로운.jpg",
+      "name" : "김로운",
+      "major": "경영정보학과"
+    },
+    {
+      "photo": "images/members/konkuk/김성환.jpg",
+      "name" : "김성환",
+      "major": "체육교육과"
+    },
+    {
+      "photo": "images/members/konkuk/김우정.jpg",
+      "name" : "김우정",
+      "major": "전자공학부"
+    },
+    {
+      "photo": "images/members/konkuk/김태훈.png",
+      "name" : "김태훈",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/konkuk/동서현.jpg",
+      "name" : "동서현",
+      "major": "경영정보학과"
+    },
+    {
+      "photo": "images/members/konkuk/류준희.jpg",
+      "name" : "류준희",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/konkuk/마경도.jpg",
+      "name" : "마경도",
+      "major": "인터넷미디어공학부"
+    },
+    {
+      "photo": "images/members/konkuk/박상선.jpg",
+      "name" : "박상선",
+      "major": "경영정보학과"
+    },
+    {
+      "photo": "images/members/konkuk/박영신.jpg",
+      "name" : "박영신",
+      "major": "환경공학과"
+    },
+    {
+      "photo": "images/members/konkuk/박예준.jpg",
+      "name" : "박예준",
+      "major": "기술경영학과"
+    },
+    {
+      "photo": "images/members/konkuk/박현주.jpg",
+      "name" : "박현주",
+      "major": "전자공학부"
+    },
+    {
+      "photo": "images/members/konkuk/서재은.jpg",
+      "name" : "서재은",
+      "major": "커뮤니케이션 디자인"
+    },
+    {
+      "photo": "images/members/konkuk/신주용.jpg",
+      "name" : "신주용",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/konkuk/안준환.png",
+      "name" : "안준환",
+      "major": "산업공학과"
+    },
+    {
+      "photo": "images/members/konkuk/유진욱.jpg",
+      "name" : "유진욱",
+      "major": "컴퓨터공학부"
+    },
+    {
+      "photo": "images/members/konkuk/이건호.jpg",
+      "name" : "이건호",
+      "major": "경영정보학과"
+    },
+    {
+      "photo": "images/members/konkuk/장준현.jpg",
+      "name" : "장준현",
+      "major": "전자공학부"
+    },
+    {
+      "photo": "images/members/konkuk/함상빈.jpg",
+      "name" : "함상빈",
+      "major": "융합인재학부"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/ajou.jpg",
+    "name": "아주대학교",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/ajou/김기부.jpg",
+      "name" : "김기부",
+      "major": "정보컴퓨터공학"
+    },
+    {
+      "photo": "images/members/ajou/마하연.png",
+      "name" : "마하연",
+      "major": "미디어학부"
+    },
+    {
+      "photo": "images/members/ajou/박성준.jpg",
+      "name" : "박성준",
+      "major": "미디어학부"
+    },
+    {
+      "photo": "images/members/ajou/박성환.jpg",
+      "name" : "박성환",
+      "major": "미디어학부"
+    },
+    {
+      "photo": "images/members/ajou/박정우.jpg",
+      "name" : "박정우",
+      "major": "문화콘텐츠학과"
+    },
+    {
+      "photo": "images/members/ajou/손동찬.jpg",
+      "name" : "손동찬",
+      "major": "정보컴퓨터공학과"
+    },
+    {
+      "photo": "images/members/ajou/오형주.jpg",
+      "name" : "오형주",
+      "major": "미디어학과"
+    },
+    {
+      "photo": "images/members/ajou/이세린.jpg",
+      "name" : "이세린",
+      "major": "생명과학과"
+    },
+    {
+      "photo": "images/members/ajou/이현주.jpg",
+      "name" : "이현주",
+      "major": "이비즈니스학과"
+    },
+    {
+      "photo": "images/members/ajou/조은정.png",
+      "name" : "조은정",
+      "major": "미디어학부"
+    },
+    {
+      "photo": "images/members/ajou/홍서연.png",
+      "name" : "홍서연",
+      "major": "미디어학과"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/cnu.jpg",
+    "name": "충남대학교",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/cnu/김준혁.jpg",
+      "name" : "김준혁",
+      "major": "무역학과"
+    },
+    {
+      "photo": "images/members/cnu/김태우.jpg",
+      "name" : "김태우",
+      "major": "컴퓨터공학과"
+    },
+    {
+      "photo": "images/members/cnu/김호현.jpeg",
+      "name" : "김호현",
+      "major": "경영학부"
+    },
+    {
+      "photo": "images/members/cnu/사규진.jpg",
+      "name" : "사규진",
+      "major": "정보통신공학과"
+    },
+    {
+      "photo": "images/members/cnu/송윤섭.jpg",
+      "name" : "송윤섭",
+      "major": "정보통신공학과"
+    },
+    {
+      "photo": "images/members/cnu/심주용.jpg",
+      "name" : "심주용",
+      "major": "컴퓨터공학과"
+    },
+    {
+      "photo": "images/members/cnu/안민영.jpeg",
+      "name" : "안민영",
+      "major": "컴퓨터공학"
+    },
+    {
+      "photo": "images/members/cnu/엄준태.jpg",
+      "name" : "엄준태",
+      "major": "물리학과"
+    },
+    {
+      "photo": "images/members/cnu/유정식.jpg",
+      "name" : "유정식",
+      "major": "언론정보학과"
+    },
+    {
+      "photo": "images/members/cnu/이상훈.jpeg",
+      "name" : "이상훈",
+      "major": "군사학부"
+    },
+    {
+      "photo": "images/members/cnu/이상훈.jpg",
+      "name" : "이상훈",
+      "major": "컴퓨터공학"
+    }
+  ]
+}

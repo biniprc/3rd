@@ -1,0 +1,44 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/uos.jpg",
+    "name": "서울시립대",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/uos/곽지은.jpeg",
+      "name" : "곽지은",
+      "major": "수학과"
+    },
+    {
+      "photo": "images/members/uos/김창현.jpeg",
+      "name" : "김창현",
+      "major": "경제학과"
+    },
+    {
+      "photo": "images/members/uos/박현우.png",
+      "name" : "박현우",
+      "major": "컴퓨터과학부"
+    },
+    {
+      "photo": "images/members/uos/백성준.png",
+      "name" : "백성준",
+      "major": "건축학과"
+    },
+    {
+      "photo": "images/members/uos/이혜진.jpeg",
+      "name" : "이혜진",
+      "major": "경제학부"
+    },
+    {
+      "photo": "images/members/uos/정한별.jpg",
+      "name" : "정한별",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/uos/최경일.png",
+      "name" : "최경일",
+      "major": "건축학과"
+    }
+  ]
+}

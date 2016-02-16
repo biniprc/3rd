@@ -1,0 +1,69 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/handong.jpg",
+    "name": "한동대",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/handong/김애진.jpg",
+      "name" : "김애진",
+      "major": "시각디자인"
+    },
+    {
+      "photo": "images/members/handong/김인환.jpg",
+      "name" : "김인환",
+      "major": "경영경제학부"
+    },
+    {
+      "photo": "images/members/handong/박은지.png",
+      "name" : "박은지",
+      "major": "산업정보디자인학부"
+    },
+    {
+      "photo": "images/members/handong/박호성.jpg",
+      "name" : "박호성",
+      "major": "전산전자공학부"
+    },
+    {
+      "photo": "images/members/handong/이민예.jpg",
+      "name" : "이민예",
+      "major": "컴퓨터공학과"
+    },
+    {
+      "photo": "images/members/handong/이사야.jpg",
+      "name" : "이사야",
+      "major": "산업정보디자인학부"
+    },
+    {
+      "photo": "images/members/handong/이소현.jpg",
+      "name" : "이소현",
+      "major": "산업정보디자인학부"
+    },
+    {
+      "photo": "images/members/handong/이승민.jpg",
+      "name" : "이승민",
+      "major": "전산전자공학부"
+    },
+    {
+      "photo": "images/members/handong/이정빈.jpg",
+      "name" : "이정빈",
+      "major": "전산전자공학부"
+    },
+    {
+      "photo": "images/members/handong/이찬희.png",
+      "name" : "이찬희",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/handong/조재경.png",
+      "name" : "조재경",
+      "major": "산업정보디자인학부"
+    },
+    {
+      "photo": "images/members/handong/차우아.png",
+      "name" : "차우아",
+      "major": "경영학과"
+    }
+  ]
+}

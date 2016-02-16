@@ -1,0 +1,167 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/sogang.jpg",
+    "name": "서강대학교",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/sogang/고원석.jpg",
+      "name" : "고원석",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/sogang/김경민.png",
+      "name" : "김경민",
+      "major": "컴퓨터공학과"
+    },
+    {
+      "photo": "images/members/sogang/김수지.png",
+      "name" : "김수지",
+      "major": "심리학과"
+    },
+    {
+      "photo": "images/members/sogang/김예현.jpg",
+      "name" : "김예현",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/sogang/김재준.jpg",
+      "name" : "김재준",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/sogang/김지일.jpg",
+      "name" : "김지일",
+      "major": "정치외교학과"
+    },
+    {
+      "photo": "images/members/sogang/김현우.jpg",
+      "name" : "김현우",
+      "major": "화공생명공학과"
+    },
+    {
+      "photo": "images/members/sogang/류다영.jpg",
+      "name" : "류다영",
+      "major": "영미어문학과"
+    },
+    {
+      "photo": "images/members/sogang/박우준.jpg",
+      "name" : "박우준",
+      "major": "전자공학과"
+    },
+    {
+      "photo": "images/members/sogang/박한민.jpg",
+      "name" : "박한민",
+      "major": "경제학과"
+    },
+
+    {
+      "photo": "images/members/sogang/박해원.png",
+      "name" : "박해원",
+      "major": "영문과"
+    },
+    {
+      "photo": "images/members/sogang/서상범.jpg",
+      "name" : "서상범",
+      "major": "전자공학과"
+    },
+    {
+      "photo": "images/members/sogang/서석인.jpg",
+      "name" : "서석인",
+      "major": "컴퓨터공학과"
+    },
+    {
+      "photo": "images/members/sogang/송윤석.jpg",
+      "name" : "송윤석",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/sogang/안재훈.png",
+      "name" : "안재훈",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/sogang/오재훈.jpg",
+      "name" : "오재훈",
+      "major": "수학과"
+    },
+    {
+      "photo": "images/members/sogang/오지훈.jpg",
+      "name" : "오지훈",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/sogang/원동인.jpg",
+      "name" : "원동인",
+      "major": "전자공학과"
+    },
+    {
+      "photo": "images/members/sogang/유보윤.jpg",
+      "name" : "유보윤",
+      "major": "컴퓨터공학과"
+    },
+    {
+      "photo": "images/members/sogang/유태영.png",
+      "name" : "유태영",
+      "major": "사회학/경영학"
+    },
+
+    {
+      "photo": "images/members/sogang/이경민.jpg",
+      "name" : "이경민",
+      "major": "사학과"
+    },
+    {
+      "photo": "images/members/sogang/이예인.jpg",
+      "name" : "이예인",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/sogang/이윤형.jpg",
+      "name" : "이윤형",
+      "major": "컴퓨터공학과"
+    },
+    {
+      "photo": "images/members/sogang/이인아.png",
+      "name" : "이인아",
+      "major": "커뮤니케이션학과"
+    },
+    {
+      "photo": "images/members/sogang/이진녕.jpg",
+      "name" : "이진녕",
+      "major": "신문방송학과"
+    },
+    {
+      "photo": "images/members/sogang/이찬하.jpg",
+      "name" : "이찬하",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/sogang/이창훈.jpg",
+      "name" : "이창훈",
+      "major": "EU문화계"
+    },
+    {
+      "photo": "images/members/sogang/정헌식.jpg",
+      "name" : "정헌식",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/sogang/조원일.jpg",
+      "name" : "조원일",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/sogang/주은혜.jpg",
+      "name" : "주은혜",
+      "major": "화공생명공학과"
+    },
+
+    {
+      "photo": "images/members/sogang/홍창남.jpg",
+      "name" : "홍창남",
+      "major": "경영학과"
+    }
+  ]
+}

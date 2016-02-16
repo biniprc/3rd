@@ -1,0 +1,59 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/sookmyung.jpg",
+    "name": "숙명여대",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/sookmyung/김연지.jpg",
+      "name" : "김연지",
+      "major": "홍보광고"
+    },
+    {
+      "photo": "images/members/sookmyung/문숙희.jpg",
+      "name" : "문숙희",
+      "major": "교육학"
+    },
+    {
+      "photo": "images/members/sookmyung/신유리.png",
+      "name" : "신유리",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/sookmyung/안누리.jpg",
+      "name" : "안누리",
+      "major": "경영학부"
+    },
+    {
+      "photo": "images/members/sookmyung/윤혜진.png",
+      "name" : "윤혜진",
+      "major": "글로벌협력학과"
+    },
+    {
+      "photo": "images/members/sookmyung/이소연.jpg",
+      "name" : "이소연",
+      "major": "컴퓨터과학과"
+    },
+    {
+      "photo": "images/members/sookmyung/이주연.png",
+      "name" : "이주연",
+      "major": "홍보광고학과"
+    },
+    {
+      "photo": "images/members/sookmyung/임소현.jpg",
+      "name" : "임소현",
+      "major": "법학과"
+    },
+    {
+      "photo": "images/members/sookmyung/전수빈.jpg",
+      "name" : "전수빈",
+      "major": "한국어문학부"
+    },
+    {
+      "photo": "images/members/sookmyung/한유진.png",
+      "name" : "한유진",
+      "major": "멀티미디어과학과"
+    }
+  ]
+}

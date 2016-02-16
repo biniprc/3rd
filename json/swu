@@ -1,0 +1,64 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/swu.jpg",
+    "name": "서울여대",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/swu/권예지.png",
+      "name" : "권예지",
+      "major": "정보보호학과"
+    },
+    {
+      "photo": "images/members/swu/김경민.png",
+      "name" : "김경민",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/swu/김나영.png",
+      "name" : "김나영",
+      "major": "콘텐츠디자인학과"
+    },
+    {
+      "photo": "images/members/swu/류해민.png",
+      "name" : "류해민",
+      "major": "컴퓨터학과"
+    },
+    {
+      "photo": "images/members/swu/박인영.png",
+      "name" : "박인영",
+      "major": "국어국문"
+    },
+    {
+      "photo": "images/members/swu/석승연.png",
+      "name" : "석승연",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/swu/신이나.png",
+      "name" : "신이나",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/swu/유미송.png",
+      "name" : "유미송",
+      "major": "국어국문학과"
+    },
+    {
+      "photo": "images/members/swu/유지혜.png",
+      "name" : "유지혜",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/swu/정혜윤.png",
+      "name" : "정혜윤",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/swu/주연경.png",
+      "name" : "주연경",
+      "major": "인터렉션디자인"
+    }
+  ]
+}

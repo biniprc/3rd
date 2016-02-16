@@ -1,0 +1,14 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/seoultech.jpg",
+    "name": "서울과기대",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/seoultech/temp.png",
+      "name" : "서울과학기술대학교",
+      "major": "사진 준비중"
+    }
+  ]
+}

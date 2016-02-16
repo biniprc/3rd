@@ -1,0 +1,54 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/pusan.jpg",
+    "name": "부산대학교",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/pusan/고동현.jpg",
+      "name" : "고동현",
+      "major": "정보컴퓨터공학부"
+    },
+    {
+      "photo": "images/members/pusan/구진현.jpg",
+      "name" : "구진현",
+      "major": "정보컴퓨터공학부"
+    },
+    {
+      "photo": "images/members/pusan/김문태.png",
+      "name" : "김문태",
+      "major": "정보컴퓨터공학부"
+    },
+    {
+      "photo": "images/members/pusan/김종원.jpg",
+      "name" : "김종원",
+      "major": "전기공학과"
+    },
+    {
+      "photo": "images/members/pusan/박재국.jpg",
+      "name" : "박재국",
+      "major": "금융공학과"
+    },
+    {
+      "photo": "images/members/pusan/서정화.jpg",
+      "name" : "서정화",
+      "major": "기계공학부"
+    },
+    {
+      "photo": "images/members/pusan/성호경.jpg",
+      "name" : "성호경",
+      "major": "정보컴퓨터공학부"
+    },
+    {
+      "photo": "images/members/pusan/정인혁.png",
+      "name" : "정인혁",
+      "major": "정보컴퓨터공학부"
+    },
+    {
+      "photo": "images/members/pusan/홍진웅.png",
+      "name" : "홍진웅",
+      "major": "무역학과"
+    }
+  ]
+}

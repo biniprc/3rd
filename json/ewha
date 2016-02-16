@@ -1,0 +1,74 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/ewha.jpg",
+    "name": "이화여대",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/ewha/강예슬.png",
+      "name" : "강예슬",
+      "major": ""
+    },
+    {
+      "photo": "images/members/ewha/강현정.png",
+      "name" : "강현정",
+      "major": ""
+    },
+    {
+      "photo": "images/members/ewha/김다혜.jpg",
+      "name" : "김다혜",
+      "major": ""
+    },
+    {
+      "photo": "images/members/ewha/김성아.png",
+      "name" : "김성아",
+      "major": ""
+    },
+    {
+      "photo": "images/members/ewha/류다인.jpg",
+      "name" : "류다인",
+      "major": ""
+    },
+    {
+      "photo": "images/members/ewha/박주원.jpg",
+      "name" : "박주원",
+      "major": ""
+    },
+    {
+      "photo": "images/members/ewha/양소영.jpg",
+      "name" : "양소영",
+      "major": ""
+    },
+    {
+      "photo": "images/members/ewha/이나경.jpg",
+      "name" : "이나경",
+      "major": ""
+    },
+    {
+      "photo": "images/members/ewha/이연정.jpeg",
+      "name" : "이연정",
+      "major": ""
+    },
+    {
+      "photo": "images/members/ewha/이유민.png",
+      "name" : "이유민",
+      "major": ""
+    },
+    {
+      "photo": "images/members/ewha/이하영.png",
+      "name" : "이하영",
+      "major": ""
+    },
+    {
+      "photo": "images/members/ewha/전지윤.jpg",
+      "name" : "전지윤",
+      "major": ""
+    },
+    {
+      "photo": "images/members/ewha/조수진.jpg",
+      "name" : "조수진",
+      "major": ""
+    }
+  ]
+}

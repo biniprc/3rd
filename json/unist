@@ -1,0 +1,89 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/unist.jpg",
+    "name": "UNIST",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/unist/강형민.png",
+      "name" : "강형민",
+      "major": "인간 및 감성공학"
+    },
+    {
+      "photo": "images/members/unist/김범수.jpg",
+      "name" : "김범수",
+      "major": "컴퓨터공학과"
+    },
+    {
+      "photo": "images/members/unist/김영길.jpg",
+      "name" : "김영길",
+      "major": "전기전자공학부"
+    },
+    {
+      "photo": "images/members/unist/김이섭.jpg",
+      "name" : "김이섭",
+      "major": "컴퓨터공학과"
+    },
+    {
+      "photo": "images/members/unist/김재영.jpg",
+      "name" : "김재영",
+      "major": "기초과정부(경영)"
+    },
+    {
+      "photo": "images/members/unist/김정욱.jpg",
+      "name" : "김정욱",
+      "major": "기계공학과"
+    },
+    {
+      "photo": "images/members/unist/문성우.png",
+      "name" : "문성우",
+      "major": "컴퓨터공학과"
+    },
+    {
+      "photo": "images/members/unist/문지훈.jpg",
+      "name" : "문지훈",
+      "major": "생명공학과"
+    },
+    {
+      "photo": "images/members/unist/성가람.jpg",
+      "name" : "성가람",
+      "major": "전기전자공학과"
+    },
+    {
+      "photo": "images/members/unist/손병우.jpg",
+      "name" : "손병우",
+      "major": "재난관리공학과"
+    },
+    {
+      "photo": "images/members/unist/장한솔.png",
+      "name" : "장한솔",
+      "major": "창업 및 기술사업화 전공"
+    },
+    {
+      "photo": "images/members/unist/정미영.jpg",
+      "name" : "정미영",
+      "major": "전기전자공학과"
+    },
+    {
+      "photo": "images/members/unist/정세인.jpg",
+      "name" : "정세인",
+      "major": "DGS"
+    },
+    {
+      "photo": "images/members/unist/정지웅.jpg",
+      "name" : "정지웅",
+      "major": "경영학부"
+    },
+    {
+      "photo": "images/members/unist/정해진.jpg",
+      "name" : "정해진",
+      "major": "컴퓨터공학과"
+    },
+    {
+      "photo": "images/members/unist/조재민.jpg",
+      "name" : "조재민",
+      "major": "컴퓨터공학과"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/kangwon.jpg",
+    "name": "강원대학교",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/kangwon/김승한.jpg",
+      "name" : "김승한",
+      "major": "철학과"
+    },
+    {
+      "photo": "images/members/kangwon/안재훈.jpg",
+      "name" : "안재훈",
+      "major": "전자통신공학"
+    },
+    {
+      "photo": "images/members/kangwon/윤지혜.jpg",
+      "name" : "윤지혜",
+      "major": ""
+    },
+    {
+      "photo": "images/members/kangwon/이승은.jpg",
+      "name" : "이승은",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/kangwon/이우석.jpg",
+      "name" : "이우석",
+      "major": "컴퓨터과학과"
+    },
+    {
+      "photo": "images/members/kangwon/이윤호.bmp",
+      "name" : "이윤호",
+      "major": "분자생명과학과"
+    },
+    {
+      "photo": "images/members/kangwon/최승희.jpg",
+      "name" : "최승희",
+      "major": "독어독문학과"
+    }
+  ]
+}

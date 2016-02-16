@@ -1,0 +1,34 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/yungnam.jpg",
+    "name": "영남대학교",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/yungnam/김성수.jpg",
+      "name" : "김성수",
+      "major": "건설시스템공학과"
+    },
+    {
+      "photo": "images/members/yungnam/박수민.jpg",
+      "name" : "박수민",
+      "major": "경제금융학부"
+    },
+    {
+      "photo": "images/members/yungnam/서보문.jpg",
+      "name" : "서보문",
+      "major": "정보통신공학과"
+    },
+    {
+      "photo": "images/members/yungnam/손윤호.jpg",
+      "name" : "손윤호",
+      "major": "경제금융학부"
+    },
+    {
+      "photo": "images/members/yungnam/최지혜.jpg",
+      "name" : "최지혜",
+      "major": "컴퓨터공학과"
+    }
+  ]
+}

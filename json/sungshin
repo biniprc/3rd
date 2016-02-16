@@ -1,0 +1,44 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/sungshin.jpg",
+    "name": "성신여대",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/sungshin/안우리.jpg",
+      "name" : "안우리",
+      "major": "IT학부"
+    },
+    {
+      "photo": "images/members/sungshin/이한주.jpg",
+      "name" : "이한주",
+      "major": "IT학부"
+    },
+    {
+      "photo": "images/members/sungshin/전혜원.jpg",
+      "name" : "전혜원",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/sungshin/정지윤.jpg",
+      "name" : "정지윤",
+      "major": "컴퓨터소프트웨어학과"
+    },
+    {
+      "photo": "images/members/sungshin/조수경.jpg",
+      "name" : "조수경",
+      "major": "IT학부"
+    },
+    {
+      "photo": "images/members/sungshin/최시라.png",
+      "name" : "최시라",
+      "major": "IT학부"
+    },
+    {
+      "photo": "images/members/sungshin/편은지.jpg",
+      "name" : "편은지",
+      "major": "미디어 커뮤니케이션학과"
+    }
+  ]
+}

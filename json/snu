@@ -1,0 +1,212 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/snu.jpg",
+    "name": "서울대학교",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/snu/강민영.jpg",
+      "name" : "강민영",
+      "major": "지역시스템공학과"
+    },
+    {
+      "photo": "images/members/snu/강지우.jpg",
+      "name" : "강지우",
+      "major": "건설환경공학부"
+    },
+    {
+      "photo": "images/members/snu/고종국.jpg",
+      "name" : "고종국",
+      "major": "화학생물공학부"
+    },
+    {
+      "photo": "images/members/snu/김강현.jpg",
+      "name" : "김강현",
+      "major": "기계항공공학부"
+    },
+    {
+      "photo": "images/members/snu/김기웅.jpg",
+      "name" : "김기웅",
+      "major": "컴퓨터공학부"
+    },
+    {
+      "photo": "images/members/snu/김도경.jpg",
+      "name" : "김도경",
+      "major": "식품동물생명공학부"
+    },
+    {
+      "photo": "images/members/snu/김도환.jpg",
+      "name" : "김도환",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/snu/김정민.jpg",
+      "name" : "김정민",
+      "major": "수의학과"
+    },
+    {
+      "photo": "images/members/snu/김태훈.jpg",
+      "name" : "김태훈",
+      "major": "식물생산과학부"
+    },
+    {
+      "photo": "images/members/snu/남형걸.png",
+      "name" : "남형걸",
+      "major": "컴퓨터공학부"
+    },
+
+    {
+      "photo": "images/members/snu/남형진.jpg",
+      "name" : "남형진",
+      "major": "전기정보공학부"
+    },
+    {
+      "photo": "images/members/snu/박종민.jpg",
+      "name" : "박종민",
+      "major": "기계항공공학부"
+    },
+    {
+      "photo": "images/members/snu/박준성.jpg",
+      "name" : "박준성",
+      "major": "자유전공학부"
+    },
+    {
+      "photo": "images/members/snu/박지연.png",
+      "name" : "박지연",
+      "major": "자유전공학부"
+    },
+    {
+      "photo": "images/members/snu/소윤상.jpg",
+      "name" : "소윤상",
+      "major": "환경계획학"
+    },
+    {
+      "photo": "images/members/snu/신동민.jpg",
+      "name" : "신동민",
+      "major": "지구과학교육과"
+    },
+    {
+      "photo": "images/members/snu/신수안.png",
+      "name" : "신수안",
+      "major": "정치외교학부"
+    },
+    {
+      "photo": "images/members/snu/안상우.jpg",
+      "name" : "안상우",
+      "major": "기계항공공학부"
+    },
+    {
+      "photo": "images/members/snu/여재영.jpg",
+      "name" : "여재영",
+      "major": "경제학부"
+    },
+    {
+      "photo": "images/members/snu/오주영.png",
+      "name" : "오주영",
+      "major": "바이오시스템소재학부"
+    },
+
+    {
+      "photo": "images/members/snu/왕지희.jpg",
+      "name" : "왕지희",
+      "major": "언론정보"
+    },
+    {
+      "photo": "images/members/snu/우상현.jpg",
+      "name" : "우상현",
+      "major": "전기정보공학부"
+    },
+    {
+      "photo": "images/members/snu/우주.jpg",
+      "name" : "우주",
+      "major": "컴퓨터공학부"
+    },
+    {
+      "photo": "images/members/snu/윤진.png",
+      "name" : "윤진",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/snu/윤형수.jpg",
+      "name" : "윤형수",
+      "major": "전기정보공학부"
+    },
+    {
+      "photo": "images/members/snu/이경준.png",
+      "name" : "이경준",
+      "major": "응용생명화학전공"
+    },
+    {
+      "photo": "images/members/snu/이근영.png",
+      "name" : "이근영",
+      "major": "원자핵공학과"
+    },
+    {
+      "photo": "images/members/snu/이누리.png",
+      "name" : "이누리",
+      "major": "수의학과"
+    },
+    {
+      "photo": "images/members/snu/이범국.png",
+      "name" : "이범국",
+      "major": "산업공학과"
+    },
+    {
+      "photo": "images/members/snu/이지훈.png",
+      "name" : "이지훈",
+      "major": "컴퓨터공학부"
+    },
+
+    {
+      "photo": "images/members/snu/정유철.jpg",
+      "name" : "정유철",
+      "major": "통계학과"
+    },
+    {
+      "photo": "images/members/snu/정의진.jpg",
+      "name" : "정의진",
+      "major": "산업공학과"
+    },
+    {
+      "photo": "images/members/snu/정혜주.jpg",
+      "name" : "정혜주",
+      "major": "서어서문학과"
+    },
+    {
+      "photo": "images/members/snu/조대연.jpg",
+      "name" : "조대연",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/snu/조정훈.jpg",
+      "name" : "조정훈",
+      "major": "건설환경공학부"
+    },
+    {
+      "photo": "images/members/snu/조제흠.jpg",
+      "name" : "조제흠",
+      "major": "산업공학과"
+    },
+    {
+      "photo": "images/members/snu/진향기.jpg",
+      "name" : "진향기",
+      "major": "시각디자학과"
+    },
+    {
+      "photo": "images/members/snu/최성준.jpg",
+      "name" : "최성준",
+      "major": "자유전공학부"
+    },
+    {
+      "photo": "images/members/snu/최윤정.jpg",
+      "name" : "최윤정",
+      "major": "영어영문학과"
+    },
+    {
+      "photo": "images/members/snu/최현일.jpg",
+      "name" : "최현일",
+      "major": "전기정보공학부"
+    }
+  ]
+}

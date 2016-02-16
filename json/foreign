@@ -1,0 +1,69 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/foreign.jpg",
+    "name": "유학생",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/foreign/구소연.jpg",
+      "name" : "구소연",
+      "major": "컴퓨터공학"
+    },
+    {
+      "photo": "images/members/foreign/김채민.jpg",
+      "name" : "김채민",
+      "major": "Communication"
+    },
+    {
+      "photo": "images/members/foreign/박건.png",
+      "name" : "박건",
+      "major": "컴퓨터공학"
+    },
+    {
+      "photo": "images/members/foreign/예진협.jpg",
+      "name" : "예진협",
+      "major": "경제학과"
+    },
+    {
+      "photo": "images/members/foreign/윤성규.jpg",
+      "name" : "윤성규",
+      "major": "경제학과"
+    },
+    {
+      "photo": "images/members/foreign/이해찬.jpg",
+      "name" : "이해찬",
+      "major": "경제학과"
+    },
+    {
+      "photo": "images/members/foreign/조경민.jpg",
+      "name" : "조경민",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/foreign/조수민.jpg",
+      "name" : "조수민",
+      "major": "광고학과"
+    },
+    {
+      "photo": "images/members/foreign/채유진.jpg",
+      "name" : "채유진",
+      "major": "역사학과"
+    },
+    {
+      "photo": "images/members/foreign/한건희.png",
+      "name" : "한건희",
+      "major": "경제학과"
+    },
+    {
+      "photo": "images/members/foreign/현승민.jpg",
+      "name" : "현승민",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/foreign/황성호.jpeg",
+      "name" : "황성호",
+      "major": "통계학과"
+    }
+  ]
+}

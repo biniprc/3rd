@@ -1,0 +1,131 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/dongguk.jpg",
+    "name": "동국대학교",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/dongguk/권기현.jpg",
+      "name" : "권기현",
+      "major": "정보통신공학과"
+    },
+    {
+      "photo": "images/members/dongguk/김빛나.jpg",
+      "name" : "김빛나",
+      "major": "전자전기공학부"
+    },
+    {
+      "photo": "images/members/dongguk/김용현.png",
+      "name" : "김용현",
+      "major": "영어영문학과"
+    },
+    {
+      "photo": "images/members/dongguk/김지인.jpg",
+      "name" : "김지인",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/dongguk/김희준.jpg",
+      "name" : "김희준",
+      "major": "광고홍보학과"
+    },
+    {
+      "photo": "images/members/dongguk/류진이.jpg",
+      "name" : "류진이",
+      "major": "사학과"
+    },
+    {
+      "photo": "images/members/dongguk/박종연.jpg",
+      "name" : "박종연",
+      "major": "지리교육과"
+    },
+    {
+      "photo": "images/members/dongguk/박현민.jpg",
+      "name" : "박현민",
+      "major": "컴퓨터공학과"
+    },
+    {
+      "photo": "images/members/dongguk/백기웅.jpg",
+      "name" : "백기웅",
+      "major": "전자전기공학부"
+    },
+    {
+      "photo": "images/members/dongguk/변지섭.jpg",
+      "name" : "변지섭",
+      "major": "광고홍보학과"
+    },
+
+    {
+      "photo": "images/members/dongguk/신동우.jpg",
+      "name" : "신동우",
+      "major": "정보통신공학과"
+    },
+    {
+      "photo": "images/members/dongguk/윤세영.jpg",
+      "name" : "윤세영",
+      "major": "멀티미디어공학과"
+    },
+    {
+      "photo": "images/members/dongguk/이재철.jpg",
+      "name" : "이재철",
+      "major": "정보통신공학"
+    },
+    {
+      "photo": "images/members/dongguk/이창우.png",
+      "name" : "이창우",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/dongguk/이형로.jpg",
+      "name" : "이형로",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/dongguk/이호준.jpg",
+      "name" : "이호준",
+      "major": "기계로봇에너지공학과"
+    },
+    {
+      "photo": "images/members/dongguk/전민호.jpg",
+      "name" : "전민호",
+      "major": "국제통상학과"
+    },
+    {
+      "photo": "images/members/dongguk/정예원.jpg",
+      "name" : "정예원",
+      "major": "정보통신공학과"
+    },
+    {
+      "photo": "images/members/dongguk/정유선.jpg",
+      "name" : "정유선",
+      "major": "광고홍보학과"
+    },
+    {
+      "photo": "images/members/dongguk/조지혜.jpg",
+      "name" : "조지혜",
+      "major": "영어영문학과"
+    },
+
+    {
+      "photo": "images/members/dongguk/조혁진.jpg",
+      "name" : "조혁진",
+      "major": "기계로봇에너지공학과"
+    },
+    {
+      "photo": "images/members/dongguk/최병재.jpg",
+      "name" : "최병재",
+      "major": "화공생물공학과"
+    },
+    {
+      "photo": "images/members/dongguk/한진희.jpg",
+      "name" : "한진희",
+      "major": "중어중문학과"
+    },
+    {
+      "photo": "images/members/dongguk/황유정.jpg",
+      "name" : "황유정",
+      "major": "경영학과"
+    }
+  ]
+}

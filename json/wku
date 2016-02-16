@@ -1,0 +1,54 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/wku.jpg",
+    "name": "원광대학교",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/wku/권준휘.jpg",
+      "name" : "권준휘",
+      "major": "한의학과"
+    },
+    {
+      "photo": "images/members/wku/남상현.jpg",
+      "name" : "남상현",
+      "major": "복지보건학부"
+    },
+    {
+      "photo": "images/members/wku/박민기.jpg",
+      "name" : "박민기",
+      "major": "컴퓨터공학과"
+    },
+    {
+      "photo": "images/members/wku/박재형.jpg",
+      "name" : "박재형",
+      "major": "국제통상학부"
+    },
+    {
+      "photo": "images/members/wku/서한빈.jpg",
+      "name" : "서한빈",
+      "major": "치의학과"
+    },
+    {
+      "photo": "images/members/wku/이재훈.jpg",
+      "name" : "이재훈",
+      "major": "한의예과"
+    },
+    {
+      "photo": "images/members/wku/이지현.jpg",
+      "name" : "이지현",
+      "major": ""
+    },
+    {
+      "photo": "images/members/wku/이태성.png",
+      "name" : "이태성",
+      "major": "생명과학부"
+    },
+    {
+      "photo": "images/members/wku/한동재.jpg",
+      "name" : "한동재",
+      "major": "한의학과"
+    }
+  ]
+}

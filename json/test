@@ -1,0 +1,44 @@
+{
+  "univ": {
+    "photo": "images/team/kbj.jpg",
+    "name": "멋사 대학교",
+    "desc": "뭔가 설명을 더 넣어야 할까?"
+  },
+  "member" : [
+    {
+      "photo": "images/services/codestudy.jpg",
+      "name" : "학생1",
+      "major": "전공1"
+    },
+    {
+      "photo": "images/services/codelion.jpg",
+      "name" : "학생2",
+      "major": "전공2"
+    },
+    {
+      "photo": "images/services/nowarning.jpg",
+      "name" : "학생3",
+      "major": "전공3"
+    },
+    {
+      "photo": "images/services/bepro11.jpg",
+      "name" : "학생4",
+      "major": "전공4"
+    },
+    {
+      "photo": "images/services/avsearch.jpg",
+      "name" : "학생5",
+      "major": "전공5"
+    },
+    {
+      "photo": "images/services/ilbescreen.jpg",
+      "name" : "학생6",
+      "major": "전공6"
+    },
+    {
+      "photo": "images/services/msrt.jpg",
+      "name" : "학생7",
+      "major": "전공7"
+    }
+  ]
+}

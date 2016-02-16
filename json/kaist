@@ -1,0 +1,74 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/kaist.jpg",
+    "name": "kaist",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/kaist/국수근.jpg",
+      "name" : "국수근",
+      "major": "신소재공학과"
+    },
+    {
+      "photo": "images/members/kaist/권재원.jpg",
+      "name" : "권재원",
+      "major": "바이오및뇌공학과"
+    },
+    {
+      "photo": "images/members/kaist/김병철.jpg",
+      "name" : "김병철",
+      "major": "생명과학과"
+    },
+    {
+      "photo": "images/members/kaist/박광호.jpg",
+      "name" : "박광호",
+      "major": "기술경영"
+    },
+    {
+      "photo": "images/members/kaist/박성하.jpg",
+      "name" : "박성하",
+      "major": "기술경영"
+    },
+    {
+      "photo": "images/members/kaist/박주원.jpg",
+      "name" : "박주원",
+      "major": "산업 및 시스템공학과"
+    },
+    {
+      "photo": "images/members/kaist/박지우.jpg",
+      "name" : "박지우",
+      "major": "수리과학과"
+    },
+    {
+      "photo": "images/members/kaist/백용수.jpg",
+      "name" : "백용수",
+      "major": "수리과학과"
+    },
+    {
+      "photo": "images/members/kaist/안승민.jpg",
+      "name" : "안승민",
+      "major": "전산학과"
+    },
+    {
+      "photo": "images/members/kaist/오장섭.png",
+      "name" : "오장섭",
+      "major": "산업공학과"
+    },
+    {
+      "photo": "images/members/kaist/이윤석.jpg",
+      "name" : "이윤석",
+      "major": "경영공학과"
+    },
+    {
+      "photo": "images/members/kaist/이재서.png",
+      "name" : "이재서",
+      "major": "전산학과"
+    },
+    {
+      "photo": "images/members/kaist/정승원.png",
+      "name" : "정승원",
+      "major": "바이오및뇌공학과"
+    }
+  ]
+}

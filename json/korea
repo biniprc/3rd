@@ -1,0 +1,218 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/korea.jpg",
+    "name": "고려대학교",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/korea/강윤.jpg",
+      "name" : "강윤",
+      "major": "산업경영공학부"
+    },
+    {
+      "photo": "images/members/korea/구성회.jpg",
+      "name" : "구성회",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/korea/김남민.png",
+      "name" : "김남민",
+      "major": "컴퓨터학과"
+    },
+    {
+      "photo": "images/members/korea/김동준.jpg",
+      "name" : "김동준",
+      "major": "물리학과"
+    },
+    {
+      "photo": "images/members/korea/김리한.jpg",
+      "name" : "김리한",
+      "major": "경제학과"
+    },
+    {
+      "photo": "images/members/korea/김승주.png",
+      "name" : "김승주",
+      "major": "전기전자공학부"
+    },
+    {
+      "photo": "images/members/korea/김요섭.jpg",
+      "name" : "김요섭",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/korea/김윤환.jpg",
+      "name" : "김윤환",
+      "major": "정치외교학과"
+    },
+    {
+      "photo": "images/members/korea/김준영.jpg",
+      "name" : "김준영",
+      "major": "컴퓨터학과"
+    },
+    {
+      "photo": "images/members/korea/김지언.jpg",
+      "name" : "김지언",
+      "major": "경영학과"
+    },
+
+    {
+      "photo": "images/members/korea/김지현.jpeg",
+      "name" : "김지현",
+      "major": "전기전자전파공학부"
+    },
+    {
+      "photo": "images/members/korea/김혜연.jpeg",
+      "name" : "김혜연",
+      "major": "산업경영공학과"
+    },
+    {
+      "photo": "images/members/korea/류성원.jpg",
+      "name" : "류성원",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/korea/문지섭.jpeg",
+      "name" : "문지섭",
+      "major": "교육학과"
+    },
+    {
+      "photo": "images/members/korea/박병소.jpg",
+      "name" : "박병소",
+      "major": "체육교육과"
+    },
+    {
+      "photo": "images/members/korea/박소은.jpeg",
+      "name" : "박소은",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/korea/박의진.jpg",
+      "name" : "박의진",
+      "major": "전기전자공학부"
+    },
+    {
+      "photo": "images/members/korea/박해준.jpeg",
+      "name" : "박해준",
+      "major": "사회학과"
+    },
+    {
+      "photo": "images/members/korea/박혜민.jpeg",
+      "name" : "박혜민",
+      "major": "국어국문학과"
+    },
+    {
+      "photo": "images/members/korea/손성준.jpg",
+      "name" : "손성준",
+      "major": "불어불문학과"
+    },
+
+    {
+      "photo": "images/members/korea/송서하.jpg",
+      "name" : "송서하",
+      "major": "산업경영공학과"
+    },
+    {
+      "photo": "images/members/korea/송지훈.jpeg",
+      "name" : "송지훈",
+      "major": "교육학과"
+    },
+    {
+      "photo": "images/members/korea/오현수.jpg",
+      "name" : "오현수",
+      "major": "산업경영공학부"
+    },
+    {
+      "photo": "images/members/korea/우지훈.jpg",
+      "name" : "우지훈",
+      "major": "기계공학과"
+    },
+    {
+      "photo": "images/members/korea/이강희.png",
+      "name" : "이강희",
+      "major": "영어영문학과"
+    },
+    {
+      "photo": "images/members/korea/이경민.jpg",
+      "name" : "이경민",
+      "major": "컴퓨터학과"
+    },
+    {
+      "photo": "images/members/korea/이인수.jpg",
+      "name" : "이인수",
+      "major": "컴퓨터학과"
+    },
+    {
+      "photo": "images/members/korea/이종호.jpg",
+      "name" : "이종호",
+      "major": "국어국문학과"
+    },
+    {
+      "photo": "images/members/korea/이주영.jpg",
+      "name" : "이주영",
+      "major": "바이오의공학부"
+    },
+    {
+      "photo": "images/members/korea/이준희.jpeg",
+      "name" : "이준희",
+      "major": "보건행정학과"
+    },
+
+    {
+      "photo": "images/members/korea/이탐.jpg",
+      "name" : "이탐",
+      "major": "컴퓨터학과"
+    },
+    {
+      "photo": "images/members/korea/이현기.jpg",
+      "name" : "이현기",
+      "major": "산업경영공학부"
+    },
+    {
+      "photo": "images/members/korea/임지홍.jpg",
+      "name" : "임지홍",
+      "major": "전기전자공학과"
+    },
+    {
+      "photo": "images/members/korea/조성원.jpeg",
+      "name" : "조성원",
+      "major": "정치경제학부"
+    },
+    {
+      "photo": "images/members/korea/주한결.jpg",
+      "name" : "주한결",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/korea/최영은.jpg",
+      "name" : "최영은",
+      "major": "사이버국방학과"
+    },
+    {
+      "photo": "images/members/korea/최은희.jpeg",
+      "name" : "최은희",
+      "major": "국어국문학과"
+    },
+    {
+      "photo": "images/members/korea/한리경.png",
+      "name" : "한리경",
+      "major": "컴퓨터학과"
+    },
+    {
+      "photo": "images/members/korea/홍석유.jpg",
+      "name" : "홍석유",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/korea/홍성욱.jpg",
+      "name" : "홍성욱",
+      "major": "치기공학과"
+    },
+
+    {
+      "photo": "images/members/korea/황나윤.jpg",
+      "name" : "황나윤",
+      "major": "컴퓨터학과"
+    }
+  ]
+}

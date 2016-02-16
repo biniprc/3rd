@@ -1,0 +1,14 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/knu.jpg",
+    "name": "경북대학교",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/knu/temp.png",
+      "name" : "경북대학교",
+      "major": "사진 준비중"
+    }
+  ]
+}

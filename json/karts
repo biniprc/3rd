@@ -1,0 +1,74 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/karts.jpg",
+    "name": "한예종",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/karts/강슬미.jpg",
+      "name" : "강슬미",
+      "major": "디자인과"
+    },
+    {
+      "photo": "images/members/karts/김은진.jpg",
+      "name" : "김은진",
+      "major": "디자인과"
+    },
+    {
+      "photo": "images/members/karts/박고운.jpg",
+      "name" : "박고운",
+      "major": "디자인과"
+    },
+    {
+      "photo": "images/members/karts/박지혜.jpg",
+      "name" : "박지혜",
+      "major": "디자인과"
+    },
+    {
+      "photo": "images/members/karts/박현준.jpg",
+      "name" : "박현준",
+      "major": "영상이론과"
+    },
+    {
+      "photo": "images/members/karts/안가람.jpg",
+      "name" : "안가람",
+      "major": "디자인과"
+    },
+    {
+      "photo": "images/members/karts/안수경.jpg",
+      "name" : "안수경",
+      "major": "디자인과"
+    },
+    {
+      "photo": "images/members/karts/양한슬.jpg",
+      "name" : "양한슬",
+      "major": "디자인과"
+    },
+    {
+      "photo": "images/members/karts/이수진.jpg",
+      "name" : "이수진",
+      "major": "인터랙션디자인"
+    },
+    {
+      "photo": "images/members/karts/이지은.jpg",
+      "name" : "이지은",
+      "major": "디자인과"
+    },
+    {
+      "photo": "images/members/karts/이진아.jpg",
+      "name" : "이진아",
+      "major": "디자인과"
+    },
+    {
+      "photo": "images/members/karts/정지원.jpg",
+      "name" : "정지원",
+      "major": "시각디자인"
+    },
+    {
+      "photo": "images/members/karts/최나욱.jpg",
+      "name" : "최나욱",
+      "major": "건축과"
+    }
+  ]
+}

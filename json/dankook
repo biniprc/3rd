@@ -1,0 +1,95 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/dankook.jpg",
+    "name": "단국대학교",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/dankook/김연우.jpg",
+      "name" : "김연우",
+      "major": "경제학과"
+    },
+    {
+      "photo": "images/members/dankook/김영탁.jpg",
+      "name" : "김영탁",
+      "major": "법학과"
+    },
+    {
+      "photo": "images/members/dankook/김우정.jpeg",
+      "name" : "김우정",
+      "major": "모바일시스템공학과"
+    },
+    {
+      "photo": "images/members/dankook/김유덕.jpg",
+      "name" : "김유덕",
+      "major": "법학과"
+    },
+    {
+      "photo": "images/members/dankook/문승현.jpg",
+      "name" : "문승현",
+      "major": "국제경영학과"
+    },
+    {
+      "photo": "images/members/dankook/박기령.jpg",
+      "name" : "박기령",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/dankook/박상범.jpg",
+      "name" : "박상범",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/dankook/박형규.jpg",
+      "name" : "박형규",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/dankook/신희석.jpg",
+      "name" : "신희석",
+      "major": "경제학과"
+    },
+    {
+      "photo": "images/members/dankook/양수인.jpg",
+      "name" : "양수인",
+      "major": "경영학과"
+    },
+
+    {
+      "photo": "images/members/dankook/이유빈.jpg",
+      "name" : "이유빈",
+      "major": "파이버시스템공학과"
+    },
+    {
+      "photo": "images/members/dankook/이종한.jpg",
+      "name" : "이종한",
+      "major": "커뮤니케이션"
+    },
+    {
+      "photo": "images/members/dankook/이희진.jpg",
+      "name" : "이희진",
+      "major": "소프트웨어학과"
+    },
+    {
+      "photo": "images/members/dankook/전준수.jpg",
+      "name" : "전준수",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/dankook/조민수.jpg",
+      "name" : "조민수",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/dankook/한재원.jpg",
+      "name" : "한재원",
+      "major": "화학공학과"
+    },
+    {
+      "photo": "images/members/dankook/황영롱.jpg",
+      "name" : "황영롱",
+      "major": "소프트웨어학과"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/kookmin.jpg",
+    "name": "국민대학교",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/kookmin/temp.png",
+      "name" : "국민대학교",
+      "major": "사진 준비중"
+    }
+  ]
+}

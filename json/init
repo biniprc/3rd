@@ -1,0 +1,14 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/init.jpg",
+    "name": "초기화투명",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/init/init.png",
+      "name" : "",
+      "major": ""
+    }
+  ]
+}

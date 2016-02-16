@@ -1,0 +1,14 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/ptu.jpg",
+    "name": "평택대학교",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/khu/temp.png",
+      "name" : "평택대학교",
+      "major": "사진 준비중"
+    }
+  ]
+}

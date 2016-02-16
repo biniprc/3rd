@@ -1,0 +1,54 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/duksung.jpg",
+    "name": "덕성여대",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/duksung/김영선.jpg",
+      "name" : "김영선",
+      "major": "시각디자인학과"
+    },
+    {
+      "photo": "images/members/duksung/박유진.jpg",
+      "name" : "박유진",
+      "major": "컴퓨터학과"
+    },
+    {
+      "photo": "images/members/duksung/서민서.jpg",
+      "name" : "서민서",
+      "major": "디지털미디어학과"
+    },
+    {
+      "photo": "images/members/duksung/안다솜.jpg",
+      "name" : "안다솜",
+      "major": "컴퓨터학과"
+    },
+    {
+      "photo": "images/members/duksung/우연서.jpg",
+      "name" : "우연서",
+      "major": "컴퓨터학과"
+    },
+    {
+      "photo": "images/members/duksung/이선아.png",
+      "name" : "이선아",
+      "major": "컴퓨터학과"
+    },
+    {
+      "photo": "images/members/duksung/이소정.png",
+      "name" : "이소정",
+      "major": "컴퓨터학과"
+    },
+    {
+      "photo": "images/members/duksung/조아영.png",
+      "name" : "조아영",
+      "major": "컴퓨터학과"
+    },
+    {
+      "photo": "images/members/duksung/지의진.jpg",
+      "name" : "지의진",
+      "major": "시각디자인학과"
+    }
+  ]
+}

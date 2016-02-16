@@ -1,0 +1,74 @@
+{
+  "univ": {
+    "photo": "images/univ/univ/hanyang.jpg",
+    "name": "한양대학교",
+    "desc": ""
+  },
+  "member" : [
+    {
+      "photo": "images/members/hanyang/강병욱.png",
+      "name" : "강병욱",
+      "major": "경제학과"
+    },
+    {
+      "photo": "images/members/hanyang/김도현.png",
+      "name" : "김도현",
+      "major": "컴퓨터공학부"
+    },
+    {
+      "photo": "images/members/hanyang/김민성.png",
+      "name" : "김민성",
+      "major": "중어중문학과"
+    },
+    {
+      "photo": "images/members/hanyang/김민아.png",
+      "name" : "김민아",
+      "major": "경영학부"
+    },
+    {
+      "photo": "images/members/hanyang/김민지.png",
+      "name" : "김민지",
+      "major": ""
+    },
+    {
+      "photo": "images/members/hanyang/김새봄.png",
+      "name" : "김새봄",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/hanyang/박지민.png",
+      "name" : "박지민",
+      "major": "정보시스템학과"
+    },
+    {
+      "photo": "images/members/hanyang/배윤성.png",
+      "name" : "배윤성",
+      "major": "경제금융학부"
+    },
+    {
+      "photo": "images/members/hanyang/송영현.png",
+      "name" : "송영현",
+      "major": ""
+    },
+    {
+      "photo": "images/members/hanyang/안병주.png",
+      "name" : "안병주",
+      "major": "경영학과"
+    },
+    {
+      "photo": "images/members/hanyang/오유미.png",
+      "name" : "오유미",
+      "major": "파이낸스경영학과"
+    },
+    {
+      "photo": "images/members/hanyang/이선태.png",
+      "name" : "이선태",
+      "major": "컴퓨터공학부"
+    },
+    {
+      "photo": "images/members/hanyang/이진우.png",
+      "name" : "이진우",
+      "major": "교육공학"
+    }
+  ]
+}
